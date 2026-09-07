@@ -4,7 +4,7 @@ package greeting
 import "fmt"
 
 // Version menunjukkan versi perilaku library pada commit saat ini.
-const Version = "v1.0.0"
+const Version = "v2.0.0"
 
 // Hello menghasilkan sapaan dari versi pertama library.
 func Hello(name string) string {
